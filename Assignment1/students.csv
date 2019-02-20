@@ -1,0 +1,1001 @@
+Name,Year,Age,Major,Degree,Living Condition,GPA,Passing
+Tori,Junior,60,English,BS,House,2.35,yes
+Liz,Senior,27,Music Education,BS,At home,2.57,yes
+Taylor,Junior,55,Business,BS,At home,1.93,no
+Kim,Freshman,52,Music Education,BA,Apartment,2.89,yes
+Clayton,Senior,34,Graphic Design,BA,House,3.16,yes
+Kim,Senior,50,Business,BS,Apartment,3.64,yes
+Liz,Junior,33,English,BS,At home,2.84,yes
+Jacob,Senior,45,Math,BA,At home,3.41,yes
+Ellie,Senior,18,Graphic Design,BA,House,2.72,yes
+Tori,Junior,51,Math,BS,Apartment,2.45,yes
+John,Junior,34,Math,BS,At home,2.3,yes
+Joe,Freshman,59,Graphic Design,BA,Dorm,3.55,yes
+Clayton,Sophomore,50,Math,BA,House,3.67,yes
+Mary,Junior,63,Journalism,BA,At home,3.29,yes
+Ellie,Junior,65,History Education,BS,At home,2.91,yes
+Noah,Senior,52,Music Education,BS,At home,2.75,yes
+Jenna,Junior,39,Nursing,BS,At home,2.25,yes
+Mary,Senior,61,Math,BS,At home,2.8,yes
+Jared,Freshman,54,Math,BS,Apartment,2.17,yes
+Joe,Sophomore,18,History Education,BA,House,2.94,yes
+Emily,Sophomore,29,Computer Science,BA,At home,3.42,yes
+Noah,Freshman,51,Journalism,BS,House,2.23,yes
+Noah,Freshman,24,English,BA,Dorm,1.74,no
+John,Senior,26,History Education,BA,Dorm,3.33,yes
+John,Senior,21,Spanish,BS,Dorm,2.65,yes
+Jenna,Sophomore,37,Spanish,BA,At home,3.25,yes
+Jeff,Senior,50,Graphic Design,BA,House,3.75,yes
+Emily,Sophomore,42,Journalism,BA,Dorm,3.51,yes
+Noah,Sophomore,38,Computer Science,BS,Apartment,2.44,yes
+John,Junior,37,Theatre,BA,House,2.15,yes
+Gloria,Senior,24,Graphic Design,BA,House,3.29,yes
+Daniel,Junior,64,Computer Science,BA,At home,2.49,yes
+Gloria,Sophomore,22,Computer Science,BA,Dorm,2,yes
+Jeff,Senior,18,Spanish,BA,Dorm,2.83,yes
+Ellie,Sophomore,41,Computer Science,BS,Apartment,1.81,no
+Emily,Freshman,29,Computer Science,BS,Apartment,3.2,yes
+Nick,Senior,52,Nursing,BA,House,2.98,yes
+Kim,Sophomore,34,Math,BA,House,2.02,yes
+Joe,Senior,34,Theatre,BA,At home,2.47,yes
+Tori,Freshman,31,Graphic Design,BA,House,2.75,yes
+Mary,Senior,42,Business,BS,House,3.66,yes
+Nick,Junior,26,Math,BS,Apartment,2.95,yes
+Kim,Sophomore,50,Computer Science,BS,Dorm,1.64,no
+Joe,Freshman,44,Computer Science,BS,At home,3.52,yes
+Nick,Junior,50,Nursing,BS,House,1.86,no
+Hugh,Senior,39,Computer Science,BS,At home,2.84,yes
+Noah,Senior,19,Nursing,BA,At home,3.23,yes
+Jared,Freshman,29,Math,BA,At home,2.29,yes
+Emily,Senior,52,Nursing,BA,Apartment,2.79,yes
+Emily,Freshman,54,English,BS,House,3.48,yes
+Taylor,Junior,43,Graphic Design,BA,Dorm,1.66,no
+Daniel,Freshman,35,Business,BA,Dorm,3.85,yes
+Taylor,Freshman,23,Computer Science,BS,House,3.64,yes
+Daniel,Junior,31,History Education,BA,Apartment,2.57,yes
+Liz,Senior,43,Nursing,BS,Apartment,2.22,yes
+Joe,Freshman,49,History Education,BS,Dorm,2.1,yes
+Ellie,Sophomore,46,English,BA,Apartment,2.36,yes
+Tori,Senior,51,Math,BS,House,2.16,yes
+Kim,Freshman,36,Graphic Design,BA,House,2.28,yes
+Tori,Freshman,40,Journalism,BA,At home,2.33,yes
+Jenna,Sophomore,36,Graphic Design,BA,Apartment,1.91,no
+Gloria,Freshman,33,Journalism,BA,Dorm,3.59,yes
+Liz,Junior,34,History Education,BA,At home,2.67,yes
+Gloria,Senior,37,Business,BS,At home,2.31,yes
+Liz,Freshman,27,Graphic Design,BA,At home,2.45,yes
+Taylor,Junior,65,Business,BA,Apartment,2.61,yes
+Noah,Junior,44,Math,BA,Dorm,3.74,yes
+Jacob,Sophomore,27,Journalism,BA,House,3.31,yes
+Taylor,Senior,29,History Education,BS,House,2.55,yes
+Daniel,Junior,64,English,BS,At home,3.83,yes
+Ellie,Senior,41,Spanish,BA,House,2.1,yes
+Jacob,Freshman,53,History Education,BS,Apartment,2.92,yes
+Jeremiah,Sophomore,24,Music Education,BS,House,1.55,no
+Taylor,Freshman,39,Computer Science,BS,At home,2.67,yes
+Gloria,Junior,22,Graphic Design,BS,House,3.35,yes
+Nick,Junior,37,Journalism,BA,Apartment,2.34,yes
+Joe,Sophomore,20,English,BS,At home,3.02,yes
+Emily,Junior,46,Theatre,BA,House,3.68,yes
+Jeremiah,Sophomore,47,Graphic Design,BA,At home,3.46,yes
+Mary,Senior,42,Spanish,BA,Apartment,2.25,yes
+Joe,Freshman,28,Journalism,BS,Dorm,3.81,yes
+Taylor,Senior,33,Math,BA,House,2.99,yes
+Clayton,Junior,59,Computer Science,BS,Apartment,1.94,no
+Clayton,Sophomore,50,Math,BA,Apartment,3.04,yes
+Jacob,Freshman,42,Spanish,BA,House,1.71,no
+Jenna,Sophomore,19,Spanish,BA,Dorm,2.9,yes
+Ellie,Senior,25,Music Education,BS,Apartment,3.77,yes
+Clayton,Sophomore,28,Music Education,BS,At home,2.5,yes
+Noah,Sophomore,35,Music Education,BA,At home,3.34,yes
+Liz,Senior,44,History Education,BS,At home,1.6,no
+Daniel,Junior,20,Spanish,BA,House,2.7,yes
+Jacob,Freshman,26,Graphic Design,BA,Dorm,2.81,yes
+Nick,Freshman,35,Business,BS,House,3.77,yes
+Ellie,Senior,46,English,BS,Apartment,2.82,yes
+Jenna,Sophomore,62,Music Education,BS,At home,2.32,yes
+John,Senior,49,English,BA,Apartment,3.25,yes
+Nick,Junior,61,English,BS,Dorm,3.86,yes
+Gloria,Freshman,60,Graphic Design,BA,Apartment,2.49,yes
+Tori,Junior,21,Graphic Design,BS,House,3.59,yes
+Tori,Junior,52,Business,BA,Apartment,1.76,no
+Daniel,Sophomore,38,Journalism,BA,House,2.81,yes
+Noah,Senior,58,Nursing,BS,Dorm,2.75,yes
+Joe,Junior,62,Journalism,BA,Apartment,2.05,yes
+Ellie,Freshman,47,Journalism,BS,House,2.63,yes
+Joe,Sophomore,45,History Education,BS,At home,2.36,yes
+Jeff,Freshman,24,Business,BS,Dorm,3.44,yes
+Nick,Sophomore,40,English,BS,Apartment,3.23,yes
+Mary,Senior,65,Spanish,BS,House,1.63,no
+Liz,Sophomore,60,Business,BA,House,2.88,yes
+Clayton,Sophomore,29,Nursing,BS,House,2.2,yes
+John,Sophomore,37,Spanish,BS,House,2.12,yes
+Nick,Freshman,38,English,BA,Dorm,2.81,yes
+Jenna,Sophomore,63,Math,BS,At home,3.15,yes
+Daniel,Junior,57,History Education,BS,At home,1.7,no
+Taylor,Sophomore,38,History Education,BS,At home,2.04,yes
+Jeff,Sophomore,38,English,BA,Dorm,2.91,yes
+Taylor,Freshman,64,Spanish,BA,At home,1.74,no
+Kim,Freshman,47,Theatre,BA,At home,1.71,no
+Joe,Senior,20,Spanish,BA,Apartment,1.83,no
+Noah,Sophomore,26,Journalism,BS,At home,3.1,yes
+Jacob,Junior,39,Theatre,BS,At home,2.97,yes
+Liz,Freshman,64,Computer Science,BS,Dorm,3.31,yes
+Hugh,Sophomore,29,Music Education,BA,At home,1.75,no
+Jeremiah,Senior,46,Nursing,BA,At home,3.23,yes
+Jenna,Freshman,40,English,BS,At home,2.48,yes
+Jacob,Senior,28,Computer Science,BA,Dorm,2.78,yes
+Hugh,Junior,47,Theatre,BA,Apartment,3.73,yes
+Gloria,Freshman,35,History Education,BA,House,2.65,yes
+Nick,Junior,47,Music Education,BS,Apartment,3.71,yes
+Daniel,Senior,45,Journalism,BS,House,1.75,no
+Nick,Sophomore,35,Journalism,BA,Dorm,2.11,yes
+Daniel,Freshman,53,History Education,BA,House,2.8,yes
+Noah,Senior,54,Music Education,BA,At home,2.86,yes
+Mary,Freshman,51,Computer Science,BS,House,1.93,no
+Jacob,Senior,23,Business,BA,Apartment,2.81,yes
+Jeremiah,Senior,32,English,BA,Apartment,2.23,yes
+Ellie,Sophomore,34,Nursing,BS,At home,3.25,yes
+Jared,Sophomore,52,Graphic Design,BS,Dorm,1.98,no
+Tori,Freshman,48,English,BS,Dorm,3.54,yes
+John,Senior,65,Spanish,BA,House,3.42,yes
+Kim,Freshman,40,Journalism,BA,Dorm,1.99,no
+John,Junior,32,Theatre,BA,House,2.22,yes
+Hugh,Freshman,46,Journalism,BS,Dorm,3.17,yes
+Jared,Freshman,23,Nursing,BA,Apartment,2.7,yes
+Jared,Senior,57,Math,BA,Apartment,2.87,yes
+Daniel,Senior,47,Business,BS,At home,2.63,yes
+Jenna,Senior,52,Math,BA,House,3.79,yes
+Daniel,Freshman,56,Music Education,BS,House,2.51,yes
+Emily,Freshman,45,Business,BS,House,2.39,yes
+Joe,Junior,58,History Education,BS,House,2.22,yes
+Gloria,Sophomore,32,Nursing,BA,At home,3.17,yes
+Gloria,Sophomore,54,Spanish,BS,House,3.43,yes
+Daniel,Sophomore,45,Computer Science,BS,Apartment,2.11,yes
+Gloria,Freshman,63,History Education,BS,House,3.27,yes
+Nick,Sophomore,44,Music Education,BS,Apartment,3.46,yes
+Jeremiah,Sophomore,34,History Education,BS,Dorm,2.56,yes
+Jared,Freshman,45,English,BA,Dorm,3.14,yes
+Jared,Sophomore,58,Nursing,BA,Apartment,3,yes
+John,Sophomore,21,Journalism,BS,At home,2.57,yes
+John,Sophomore,64,Business,BA,Dorm,1.94,no
+Nick,Sophomore,32,Nursing,BS,House,1.68,no
+Emily,Freshman,26,Nursing,BS,Apartment,2.58,yes
+Ellie,Sophomore,47,Nursing,BA,At home,2.69,yes
+Jared,Sophomore,54,Theatre,BS,Apartment,2.02,yes
+Nick,Sophomore,61,Theatre,BS,House,1.7,no
+Jeff,Sophomore,48,English,BA,Dorm,3.62,yes
+Jared,Freshman,42,Spanish,BA,House,2.02,yes
+Kim,Senior,62,Business,BS,Apartment,1.96,no
+Jeremiah,Sophomore,28,Nursing,BS,At home,3.04,yes
+Hugh,Freshman,45,Math,BA,House,2.37,yes
+Nick,Freshman,52,Music Education,BA,At home,1.6,no
+Jeff,Senior,50,Music Education,BA,Dorm,3.41,yes
+Jeremiah,Junior,27,Graphic Design,BS,Apartment,2.77,yes
+Jared,Sophomore,59,Music Education,BA,Apartment,3.58,yes
+Jeff,Freshman,30,Business,BS,House,2.47,yes
+Jared,Sophomore,50,Theatre,BS,Dorm,2.02,yes
+Tori,Sophomore,63,Business,BS,At home,1.9,no
+Jared,Junior,44,English,BS,Dorm,3.88,yes
+Noah,Freshman,18,Nursing,BA,At home,3.77,yes
+Taylor,Junior,21,History Education,BS,Apartment,3.55,yes
+Nick,Sophomore,64,Computer Science,BS,House,2.52,yes
+Clayton,Senior,18,Theatre,BS,Apartment,1.56,no
+Liz,Freshman,56,English,BA,Apartment,2.45,yes
+Jacob,Junior,32,Math,BS,At home,3.11,yes
+Jeff,Sophomore,48,Journalism,BS,At home,2.32,yes
+Hugh,Senior,56,Graphic Design,BS,Apartment,1.65,no
+Gloria,Senior,44,Journalism,BA,At home,2.43,yes
+Daniel,Sophomore,59,Business,BA,Apartment,1.56,no
+Tori,Sophomore,22,English,BA,House,3.51,yes
+Taylor,Freshman,19,Graphic Design,BA,Apartment,3.1,yes
+John,Freshman,44,Spanish,BA,Apartment,3.06,yes
+Liz,Senior,42,Computer Science,BA,Apartment,3.41,yes
+Liz,Senior,21,Computer Science,BA,House,3.79,yes
+Emily,Junior,65,Computer Science,BS,Apartment,2.31,yes
+Taylor,Freshman,38,History Education,BA,Apartment,3.29,yes
+Jeff,Freshman,41,History Education,BS,At home,2.48,yes
+Taylor,Freshman,24,Journalism,BS,House,2.75,yes
+Ellie,Junior,56,English,BA,House,2.05,yes
+Mary,Freshman,25,Journalism,BS,Dorm,2.64,yes
+Mary,Junior,60,Math,BA,House,1.94,no
+Jared,Freshman,21,English,BA,At home,2.07,yes
+Kim,Sophomore,21,Music Education,BA,Dorm,2.41,yes
+Liz,Sophomore,65,Nursing,BA,Dorm,2.77,yes
+Jared,Junior,37,Music Education,BA,Dorm,3.56,yes
+Joe,Senior,40,Journalism,BS,House,3.22,yes
+Jeremiah,Sophomore,58,Computer Science,BS,House,3.86,yes
+John,Senior,26,Nursing,BS,Apartment,2.9,yes
+Liz,Junior,32,Computer Science,BA,House,2.55,yes
+Mary,Sophomore,41,Graphic Design,BS,At home,3.53,yes
+Jacob,Sophomore,58,Math,BS,At home,2.33,yes
+Jacob,Junior,42,History Education,BS,At home,2.71,yes
+Ellie,Sophomore,62,Graphic Design,BS,At home,3.41,yes
+Joe,Junior,63,Computer Science,BA,House,1.75,no
+Jeremiah,Freshman,27,Music Education,BS,House,3.55,yes
+Ellie,Junior,47,Journalism,BA,Apartment,2.88,yes
+Clayton,Sophomore,34,Spanish,BS,Apartment,2.78,yes
+Jacob,Sophomore,40,Music Education,BS,Dorm,2.61,yes
+Joe,Junior,35,Music Education,BA,Apartment,3.14,yes
+Tori,Senior,21,Nursing,BA,Dorm,2.8,yes
+Liz,Freshman,38,Music Education,BS,Dorm,2.13,yes
+Jenna,Freshman,37,Music Education,BA,At home,2.95,yes
+Ellie,Senior,27,Math,BS,At home,2.42,yes
+Liz,Junior,39,Business,BS,Dorm,2.97,yes
+Mary,Freshman,18,Spanish,BA,At home,2.07,yes
+Jeremiah,Freshman,30,Theatre,BS,At home,2.37,yes
+Clayton,Freshman,41,Music Education,BS,Apartment,1.69,no
+Joe,Freshman,47,Music Education,BS,Apartment,3.66,yes
+Joe,Sophomore,40,Journalism,BS,Apartment,1.78,no
+Mary,Junior,25,Journalism,BS,House,2.66,yes
+Kim,Junior,52,Theatre,BA,At home,3.12,yes
+Jared,Sophomore,25,Computer Science,BS,House,3.75,yes
+Emily,Sophomore,36,History Education,BS,Apartment,2.79,yes
+Jenna,Sophomore,25,Business,BS,House,3.25,yes
+Daniel,Freshman,50,Journalism,BS,Apartment,3.62,yes
+Jared,Senior,28,Nursing,BS,Apartment,3.71,yes
+Ellie,Freshman,22,Math,BA,House,3.26,yes
+Noah,Junior,22,Journalism,BA,Dorm,2.41,yes
+Liz,Freshman,36,Journalism,BS,House,3.62,yes
+Emily,Junior,37,Theatre,BA,House,3.28,yes
+John,Junior,50,Nursing,BS,House,2.3,yes
+Taylor,Junior,33,Business,BS,Apartment,1.67,no
+Jeremiah,Senior,57,Music Education,BS,Dorm,3.54,yes
+Emily,Junior,26,Nursing,BS,House,3.5,yes
+Liz,Junior,30,English,BA,At home,1.94,no
+Daniel,Sophomore,56,Spanish,BS,Dorm,1.66,no
+Jared,Junior,44,Spanish,BA,At home,3.5,yes
+Jared,Freshman,26,Theatre,BA,House,2.08,yes
+Jeff,Sophomore,43,Computer Science,BA,Apartment,1.64,no
+Daniel,Freshman,62,History Education,BS,House,2.78,yes
+Clayton,Freshman,57,Graphic Design,BA,Apartment,3.17,yes
+Gloria,Senior,41,Nursing,BA,At home,3.14,yes
+Clayton,Sophomore,47,Music Education,BS,Dorm,1.86,no
+Daniel,Junior,28,Music Education,BA,Apartment,2.8,yes
+Clayton,Freshman,23,Business,BS,Apartment,3.13,yes
+Daniel,Senior,35,Nursing,BA,Dorm,2.3,yes
+Liz,Sophomore,36,Computer Science,BS,House,3.26,yes
+Hugh,Senior,55,English,BS,At home,1.66,no
+Kim,Sophomore,27,Business,BA,Apartment,1.76,no
+Jared,Sophomore,34,Nursing,BA,At home,3.72,yes
+Jeremiah,Senior,24,Business,BA,At home,2.41,yes
+Kim,Senior,26,Business,BA,At home,3.09,yes
+Noah,Senior,21,Journalism,BS,At home,1.89,no
+Clayton,Junior,35,Music Education,BA,Dorm,2.38,yes
+Gloria,Sophomore,42,Theatre,BA,At home,2.11,yes
+Emily,Senior,42,Music Education,BA,Apartment,2.02,yes
+Daniel,Senior,41,Computer Science,BA,Dorm,2.81,yes
+Tori,Junior,37,Nursing,BA,At home,3.6,yes
+Tori,Junior,47,Spanish,BS,Dorm,2.31,yes
+Mary,Senior,25,Nursing,BS,At home,2.17,yes
+Daniel,Freshman,54,Computer Science,BA,At home,3.4,yes
+Tori,Sophomore,41,Computer Science,BS,Apartment,3.44,yes
+John,Freshman,58,Theatre,BS,House,2.39,yes
+Mary,Freshman,37,Nursing,BA,House,3.37,yes
+Kim,Freshman,21,Nursing,BA,Dorm,3.74,yes
+Emily,Sophomore,40,Nursing,BS,Apartment,1.61,no
+John,Senior,49,Theatre,BS,Dorm,2.29,yes
+John,Freshman,37,Music Education,BS,Dorm,3.07,yes
+Emily,Freshman,23,Nursing,BA,House,1.59,no
+Clayton,Junior,32,Nursing,BS,House,3.62,yes
+Tori,Freshman,38,Math,BA,At home,3.28,yes
+Gloria,Freshman,57,Graphic Design,BS,At home,2.59,yes
+Jared,Senior,34,Nursing,BS,Apartment,2.66,yes
+Gloria,Freshman,24,History Education,BA,House,3.22,yes
+Jeff,Freshman,52,Music Education,BS,Dorm,3.43,yes
+Jacob,Senior,18,Music Education,BS,At home,2.84,yes
+Emily,Freshman,24,Math,BA,Apartment,3.06,yes
+Ellie,Junior,47,History Education,BA,At home,2.17,yes
+Kim,Sophomore,36,History Education,BA,At home,2.36,yes
+John,Sophomore,62,Business,BS,Dorm,1.82,no
+Nick,Sophomore,55,Graphic Design,BA,Apartment,2.88,yes
+Jenna,Junior,20,Math,BS,At home,3.65,yes
+Jeremiah,Junior,50,Graphic Design,BA,Apartment,3.14,yes
+Noah,Junior,46,Graphic Design,BS,House,3.67,yes
+Noah,Sophomore,59,Theatre,BA,House,2.22,yes
+Tori,Junior,21,Nursing,BS,Apartment,3.66,yes
+Jeremiah,Sophomore,62,English,BA,Apartment,3.8,yes
+Daniel,Sophomore,54,History Education,BS,Apartment,2.23,yes
+Taylor,Sophomore,52,Nursing,BS,At home,3.12,yes
+Jeff,Sophomore,49,Computer Science,BA,At home,3.19,yes
+Hugh,Senior,42,Journalism,BS,House,3.07,yes
+Jared,Sophomore,38,Computer Science,BA,Dorm,3.4,yes
+Jeremiah,Senior,25,Nursing,BS,House,2.66,yes
+Jeff,Freshman,38,Music Education,BS,At home,2.45,yes
+Daniel,Sophomore,51,Theatre,BS,Dorm,3.67,yes
+John,Senior,51,Math,BA,Apartment,2.62,yes
+Daniel,Freshman,52,Nursing,BS,Dorm,2.27,yes
+Clayton,Freshman,46,Computer Science,BA,At home,1.98,no
+Clayton,Freshman,62,Graphic Design,BS,House,1.95,no
+Emily,Freshman,43,Math,BS,Dorm,2.07,yes
+Nick,Junior,55,Nursing,BS,At home,3.43,yes
+Hugh,Junior,48,Graphic Design,BS,At home,1.67,no
+Emily,Sophomore,39,Nursing,BA,At home,2.8,yes
+Daniel,Senior,49,Computer Science,BS,Dorm,1.87,no
+Jeremiah,Sophomore,58,Graphic Design,BA,House,3.2,yes
+Mary,Sophomore,64,History Education,BA,House,3.42,yes
+Noah,Freshman,27,Journalism,BS,House,2.48,yes
+Gloria,Sophomore,39,Computer Science,BA,Apartment,2.39,yes
+Tori,Junior,64,Business,BS,Apartment,3.49,yes
+Daniel,Freshman,19,Journalism,BA,House,1.91,no
+Daniel,Sophomore,53,Theatre,BA,Dorm,3.87,yes
+John,Sophomore,51,Journalism,BS,House,2.31,yes
+John,Sophomore,25,Music Education,BA,Dorm,2.96,yes
+Daniel,Junior,42,Business,BS,At home,1.92,no
+Mary,Senior,30,Spanish,BA,Apartment,1.78,no
+Jenna,Junior,55,English,BA,Dorm,2.21,yes
+Gloria,Sophomore,22,English,BA,At home,2.17,yes
+Tori,Senior,28,Math,BA,At home,3.11,yes
+Ellie,Sophomore,43,Journalism,BA,House,1.95,no
+Liz,Freshman,57,Spanish,BS,House,2.12,yes
+Gloria,Sophomore,59,History Education,BA,Dorm,1.72,no
+Kim,Senior,22,Music Education,BA,Dorm,1.97,no
+Hugh,Sophomore,28,English,BS,Dorm,3.55,yes
+Tori,Junior,32,Nursing,BA,House,3.72,yes
+Kim,Sophomore,44,Nursing,BA,Apartment,2.89,yes
+Nick,Freshman,24,Computer Science,BS,House,3.42,yes
+Mary,Senior,47,Business,BS,At home,3.65,yes
+Ellie,Junior,18,Theatre,BS,Apartment,3.25,yes
+Liz,Senior,58,Music Education,BA,At home,2.49,yes
+Noah,Junior,26,History Education,BA,At home,3.77,yes
+Emily,Junior,18,Graphic Design,BS,Apartment,1.65,no
+John,Sophomore,30,History Education,BA,Apartment,2.29,yes
+Mary,Sophomore,58,Business,BS,Dorm,1.98,no
+Ellie,Senior,26,English,BS,Dorm,3.28,yes
+Gloria,Senior,20,History Education,BS,Apartment,2.35,yes
+Gloria,Freshman,39,Computer Science,BS,Apartment,3.13,yes
+Noah,Senior,55,Nursing,BS,Apartment,1.75,no
+Liz,Junior,42,Computer Science,BA,Apartment,3.76,yes
+Clayton,Freshman,26,Computer Science,BS,At home,1.96,no
+Emily,Freshman,22,Math,BS,Apartment,1.82,no
+Mary,Senior,21,History Education,BS,Apartment,3.23,yes
+Ellie,Freshman,49,Journalism,BS,Apartment,2.08,yes
+Mary,Senior,63,Theatre,BA,House,2.06,yes
+Daniel,Freshman,30,Theatre,BA,At home,2.22,yes
+John,Freshman,25,History Education,BA,Apartment,1.81,no
+John,Senior,48,Journalism,BS,House,2.26,yes
+Taylor,Freshman,42,English,BA,Dorm,2.97,yes
+Taylor,Senior,20,Graphic Design,BA,Dorm,2.51,yes
+Mary,Sophomore,63,English,BS,Apartment,2.93,yes
+Joe,Senior,48,Nursing,BA,At home,2.61,yes
+Mary,Senior,28,Music Education,BS,Apartment,2.08,yes
+Noah,Sophomore,24,Business,BA,Apartment,3.52,yes
+Taylor,Junior,56,Business,BA,Apartment,1.79,no
+Ellie,Junior,65,Journalism,BS,At home,1.77,no
+Noah,Sophomore,18,Nursing,BA,Dorm,2.66,yes
+Kim,Sophomore,59,History Education,BA,Apartment,2.35,yes
+Joe,Sophomore,59,Journalism,BA,House,2.29,yes
+Ellie,Junior,59,Computer Science,BS,House,2.05,yes
+Mary,Senior,24,Spanish,BA,House,3.13,yes
+Clayton,Junior,48,Business,BS,Apartment,1.67,no
+Daniel,Freshman,53,Math,BA,Apartment,2.39,yes
+Taylor,Sophomore,29,History Education,BA,At home,2.18,yes
+Jeremiah,Freshman,65,Business,BS,Dorm,2.49,yes
+Emily,Sophomore,65,Spanish,BS,House,1.94,no
+Jared,Sophomore,64,Graphic Design,BS,House,3.39,yes
+Tori,Sophomore,25,History Education,BA,Dorm,3.13,yes
+John,Junior,53,Journalism,BA,At home,2.29,yes
+Taylor,Freshman,42,Graphic Design,BA,House,2.13,yes
+Gloria,Senior,57,Math,BA,Dorm,3.12,yes
+Jeremiah,Senior,18,Computer Science,BS,Dorm,3.33,yes
+Jeff,Sophomore,56,Business,BS,House,3.24,yes
+Liz,Senior,46,Computer Science,BA,At home,2.63,yes
+Liz,Freshman,32,Spanish,BS,House,2.75,yes
+Emily,Sophomore,23,Math,BS,Apartment,3.14,yes
+Jared,Sophomore,22,English,BA,Dorm,2.26,yes
+Clayton,Freshman,43,Journalism,BS,At home,3.62,yes
+Noah,Senior,48,Math,BS,Dorm,2.9,yes
+Nick,Freshman,25,Journalism,BS,House,2.29,yes
+Jenna,Freshman,45,Spanish,BA,House,3.13,yes
+Jeff,Junior,55,Journalism,BA,At home,3.08,yes
+Jacob,Sophomore,51,Music Education,BA,At home,2.8,yes
+Mary,Senior,47,Math,BS,House,1.86,no
+Gloria,Senior,41,Nursing,BA,Dorm,2.22,yes
+Taylor,Freshman,30,Graphic Design,BA,Apartment,1.86,no
+Jeremiah,Senior,59,History Education,BS,Apartment,3.42,yes
+Taylor,Junior,31,Business,BS,At home,1.62,no
+Ellie,Junior,22,Math,BS,Apartment,3.85,yes
+Hugh,Freshman,20,Math,BA,At home,3.84,yes
+Liz,Freshman,42,Journalism,BS,Apartment,3.07,yes
+Tori,Freshman,35,Business,BS,Dorm,3.1,yes
+Noah,Freshman,38,Journalism,BS,House,3.52,yes
+Tori,Freshman,37,Theatre,BA,At home,3.51,yes
+Jacob,Freshman,32,Journalism,BA,Apartment,2.55,yes
+Jenna,Sophomore,53,Math,BS,Apartment,3.34,yes
+Hugh,Sophomore,60,Journalism,BA,Apartment,3.48,yes
+Nick,Sophomore,26,Journalism,BS,At home,2.18,yes
+Hugh,Sophomore,42,Computer Science,BA,House,1.69,no
+Jeff,Sophomore,25,Journalism,BA,Apartment,2.84,yes
+Gloria,Sophomore,59,Music Education,BA,House,3.64,yes
+Liz,Junior,30,History Education,BA,Apartment,2.29,yes
+Tori,Junior,28,English,BS,At home,3.85,yes
+Liz,Senior,62,Theatre,BS,House,2.77,yes
+Jenna,Senior,52,History Education,BA,Apartment,3.71,yes
+Jenna,Freshman,33,Nursing,BS,House,1.68,no
+Joe,Senior,62,Theatre,BS,Apartment,3.84,yes
+Jeremiah,Freshman,31,English,BS,Dorm,2.4,yes
+Jacob,Senior,31,English,BA,House,2.29,yes
+Gloria,Sophomore,19,Journalism,BS,At home,3.03,yes
+Jenna,Junior,56,Business,BS,At home,3.43,yes
+Jenna,Junior,24,Graphic Design,BS,Apartment,2.44,yes
+Liz,Senior,51,Journalism,BA,Apartment,2.85,yes
+Clayton,Senior,60,Computer Science,BS,Dorm,2.67,yes
+Clayton,Sophomore,55,Journalism,BA,House,3.44,yes
+Liz,Senior,38,Graphic Design,BS,Dorm,2.24,yes
+Gloria,Senior,32,History Education,BS,Apartment,2.49,yes
+Kim,Sophomore,43,Computer Science,BS,House,3.07,yes
+Kim,Sophomore,22,Graphic Design,BS,Dorm,1.66,no
+Nick,Junior,24,Spanish,BS,Dorm,1.92,no
+Jeremiah,Sophomore,62,History Education,BS,At home,2.52,yes
+Hugh,Junior,46,Math,BS,Apartment,3.3,yes
+Jeff,Freshman,44,Journalism,BA,At home,3.6,yes
+Nick,Sophomore,48,Theatre,BA,House,2.3,yes
+Joe,Junior,37,Music Education,BA,At home,2.25,yes
+Taylor,Junior,50,Nursing,BA,House,2.26,yes
+Liz,Sophomore,35,Business,BA,Apartment,1.82,no
+Jeremiah,Freshman,59,English,BA,At home,2.26,yes
+Daniel,Junior,40,Theatre,BA,Dorm,3.23,yes
+Hugh,Freshman,23,Theatre,BS,At home,3.86,yes
+Jeremiah,Senior,43,Graphic Design,BS,House,2.26,yes
+Jeremiah,Sophomore,38,Computer Science,BS,Dorm,2.4,yes
+Gloria,Senior,29,Journalism,BS,Apartment,2.62,yes
+Jared,Junior,27,History Education,BS,Apartment,3.75,yes
+John,Junior,41,Math,BA,House,3.69,yes
+John,Sophomore,30,Math,BS,Dorm,1.76,no
+Noah,Sophomore,41,English,BS,House,2.23,yes
+Kim,Sophomore,23,Music Education,BS,Apartment,1.88,no
+Gloria,Sophomore,36,Graphic Design,BA,At home,1.93,no
+Liz,Senior,23,Computer Science,BA,House,2.91,yes
+Clayton,Junior,30,Graphic Design,BS,Apartment,3.52,yes
+Daniel,Sophomore,40,Computer Science,BS,House,1.67,no
+Noah,Sophomore,60,Music Education,BA,Apartment,2.39,yes
+Jared,Senior,31,Spanish,BS,House,2.51,yes
+Hugh,Senior,24,Spanish,BA,Dorm,3,yes
+Emily,Senior,37,Math,BA,Dorm,3.23,yes
+Liz,Junior,26,Nursing,BA,Dorm,2,yes
+Taylor,Freshman,55,Theatre,BS,Dorm,1.77,no
+Ellie,Junior,19,Graphic Design,BS,House,3.02,yes
+Ellie,Senior,34,Music Education,BS,Apartment,3.02,yes
+Noah,Freshman,25,Math,BS,House,2.89,yes
+Mary,Freshman,32,Theatre,BA,Apartment,3.85,yes
+Liz,Sophomore,56,Spanish,BS,Dorm,2.39,yes
+Jared,Sophomore,25,Spanish,BA,Apartment,3.72,yes
+Hugh,Freshman,34,Nursing,BA,Apartment,2.04,yes
+Gloria,Senior,52,Computer Science,BA,Apartment,2.31,yes
+Joe,Junior,50,Business,BS,Apartment,2.2,yes
+Ellie,Sophomore,49,Business,BA,Dorm,2.11,yes
+Taylor,Sophomore,33,Business,BA,Apartment,2.71,yes
+Nick,Senior,59,Math,BA,Apartment,3.84,yes
+Kim,Freshman,63,Spanish,BA,Dorm,3.65,yes
+Emily,Junior,64,Computer Science,BA,House,2.67,yes
+Noah,Sophomore,42,Nursing,BA,At home,3.47,yes
+Jeff,Senior,42,English,BS,House,2.08,yes
+Jeff,Sophomore,28,Theatre,BS,Dorm,3.39,yes
+Emily,Junior,62,History Education,BS,Apartment,2.93,yes
+Ellie,Senior,25,History Education,BA,Dorm,1.94,no
+Nick,Freshman,64,English,BS,Dorm,2.67,yes
+Clayton,Junior,63,Journalism,BS,At home,3.11,yes
+Mary,Senior,33,Math,BA,House,1.77,no
+Ellie,Junior,23,Nursing,BS,Apartment,1.65,no
+Daniel,Junior,62,Spanish,BS,House,3.21,yes
+Daniel,Freshman,58,Spanish,BA,Apartment,2.04,yes
+Emily,Sophomore,20,Journalism,BA,House,1.68,no
+Hugh,Sophomore,58,Math,BA,Apartment,3,yes
+Kim,Freshman,33,Music Education,BA,At home,3.62,yes
+Daniel,Junior,33,English,BA,House,3.11,yes
+Kim,Sophomore,29,Business,BS,At home,3.68,yes
+Jeff,Senior,37,Graphic Design,BA,House,2.47,yes
+Jeremiah,Freshman,51,Music Education,BS,At home,2.48,yes
+John,Sophomore,53,Spanish,BA,At home,1.98,no
+Hugh,Senior,35,Math,BA,At home,3.19,yes
+Jacob,Freshman,63,Computer Science,BA,Dorm,1.61,no
+John,Junior,23,Math,BA,Dorm,3.41,yes
+Jeff,Sophomore,19,Math,BA,House,3.16,yes
+Mary,Senior,52,Journalism,BA,Apartment,1.87,no
+Jeff,Senior,59,Computer Science,BS,At home,1.8,no
+Jared,Sophomore,58,History Education,BA,At home,3.4,yes
+Jared,Freshman,52,Journalism,BA,House,2.53,yes
+Gloria,Senior,64,Music Education,BS,Dorm,3.26,yes
+Jenna,Freshman,48,Graphic Design,BS,Apartment,1.73,no
+Liz,Sophomore,55,Nursing,BA,House,3.14,yes
+Tori,Junior,22,Spanish,BA,Apartment,2.85,yes
+Clayton,Senior,38,Journalism,BS,House,1.88,no
+Jared,Freshman,50,Music Education,BS,Dorm,2.86,yes
+Nick,Sophomore,33,Business,BS,Apartment,3.87,yes
+Emily,Sophomore,48,Theatre,BS,Dorm,2.34,yes
+Gloria,Freshman,25,Business,BA,At home,2.11,yes
+Liz,Senior,44,Spanish,BA,Dorm,1.86,no
+Emily,Freshman,44,Theatre,BS,House,2.98,yes
+Jacob,Junior,62,Nursing,BA,At home,3.61,yes
+Gloria,Sophomore,43,History Education,BA,Apartment,2.83,yes
+Taylor,Freshman,33,Computer Science,BA,Apartment,3.62,yes
+Jeff,Freshman,27,Journalism,BA,Apartment,1.88,no
+Gloria,Sophomore,58,Journalism,BA,Dorm,1.71,no
+Emily,Senior,46,Nursing,BS,House,3.38,yes
+Ellie,Sophomore,47,Theatre,BS,At home,2.29,yes
+Daniel,Junior,65,English,BS,Dorm,2.42,yes
+Tori,Junior,44,Spanish,BA,House,2.84,yes
+Taylor,Senior,51,English,BA,Dorm,2.06,yes
+John,Freshman,41,English,BS,House,1.75,no
+Gloria,Sophomore,53,Journalism,BS,Dorm,1.61,no
+Nick,Senior,41,Computer Science,BA,At home,3.25,yes
+Joe,Freshman,30,Math,BS,Apartment,2.41,yes
+Jacob,Junior,46,Math,BS,Apartment,2.54,yes
+Emily,Sophomore,47,Graphic Design,BS,At home,2.45,yes
+Jeff,Senior,30,Journalism,BA,Dorm,3.83,yes
+Liz,Sophomore,60,Spanish,BS,House,3,yes
+Hugh,Senior,19,Music Education,BS,Apartment,1.81,no
+Daniel,Junior,30,Theatre,BS,At home,3.2,yes
+Liz,Sophomore,27,Math,BA,At home,2.42,yes
+Ellie,Freshman,49,Journalism,BS,At home,3.87,yes
+Clayton,Freshman,46,English,BA,Apartment,2.54,yes
+Jeremiah,Sophomore,29,Computer Science,BA,Apartment,3.31,yes
+Jeremiah,Freshman,45,Theatre,BS,At home,2.54,yes
+Jenna,Junior,50,History Education,BS,At home,3.8,yes
+Tori,Senior,36,English,BA,Apartment,2.94,yes
+Emily,Senior,64,Spanish,BS,At home,3.75,yes
+Jeremiah,Sophomore,35,History Education,BS,At home,3.47,yes
+Clayton,Junior,43,Music Education,BS,Dorm,2.51,yes
+Jared,Sophomore,27,Business,BA,Dorm,2.52,yes
+John,Sophomore,44,Spanish,BA,At home,2.02,yes
+John,Junior,36,Music Education,BA,At home,2.15,yes
+Emily,Senior,33,History Education,BS,At home,2.01,yes
+Ellie,Junior,56,Music Education,BA,At home,2.87,yes
+Mary,Junior,24,English,BA,At home,2.35,yes
+Mary,Freshman,35,Journalism,BA,At home,3,yes
+Hugh,Freshman,59,Journalism,BS,Dorm,1.82,no
+Mary,Junior,27,Journalism,BA,House,3.28,yes
+Gloria,Senior,21,Business,BS,Apartment,3.73,yes
+Kim,Senior,36,Journalism,BA,Dorm,2.51,yes
+Emily,Junior,28,Theatre,BA,Dorm,3.12,yes
+Kim,Junior,29,Business,BA,House,3.15,yes
+Joe,Junior,32,History Education,BA,Apartment,2.31,yes
+Mary,Sophomore,23,History Education,BS,At home,1.9,no
+Kim,Junior,40,Computer Science,BA,Apartment,2.74,yes
+Hugh,Junior,62,Math,BA,House,1.87,no
+Nick,Sophomore,38,Graphic Design,BA,Dorm,2.97,yes
+Hugh,Freshman,52,Math,BS,House,2.3,yes
+Jenna,Sophomore,64,Music Education,BS,House,2.42,yes
+Taylor,Senior,43,Theatre,BA,House,2.69,yes
+Jared,Freshman,39,Nursing,BA,Dorm,1.86,no
+Liz,Junior,30,Music Education,BS,Apartment,3.41,yes
+Nick,Junior,31,Music Education,BA,Dorm,3.74,yes
+Joe,Senior,29,English,BS,At home,2.81,yes
+Hugh,Junior,51,Journalism,BS,Dorm,2.3,yes
+Ellie,Freshman,46,Nursing,BS,Dorm,3.53,yes
+Jacob,Freshman,33,Journalism,BS,Apartment,2.84,yes
+Joe,Junior,29,Nursing,BA,House,3.2,yes
+Noah,Sophomore,61,Math,BS,At home,3.21,yes
+Emily,Junior,64,History Education,BA,Apartment,1.57,no
+Kim,Junior,42,Nursing,BA,Dorm,2.01,yes
+Jacob,Junior,26,Nursing,BS,Apartment,3.4,yes
+John,Sophomore,60,Journalism,BA,At home,1.7,no
+Jeremiah,Senior,55,Journalism,BA,House,3.4,yes
+Joe,Junior,31,Nursing,BA,House,2.85,yes
+Jared,Senior,46,Math,BS,House,2.56,yes
+Jacob,Senior,34,Graphic Design,BS,Dorm,2.73,yes
+Daniel,Senior,64,Computer Science,BS,House,2.78,yes
+Ellie,Senior,62,English,BA,Dorm,3.57,yes
+John,Freshman,53,English,BA,At home,3.17,yes
+Hugh,Sophomore,49,Graphic Design,BS,Dorm,3.44,yes
+Daniel,Freshman,57,Spanish,BS,At home,2.86,yes
+Gloria,Sophomore,57,Music Education,BS,Dorm,3.46,yes
+Jenna,Freshman,48,Math,BS,House,3.53,yes
+Daniel,Junior,62,Journalism,BS,At home,2.5,yes
+Tori,Freshman,29,Theatre,BA,Dorm,2.16,yes
+Jacob,Freshman,55,History Education,BS,Dorm,2.84,yes
+Jeremiah,Freshman,60,English,BS,Apartment,3.5,yes
+Liz,Sophomore,27,Nursing,BA,House,3.45,yes
+Jeff,Senior,39,Computer Science,BA,At home,3.48,yes
+Kim,Junior,23,Spanish,BA,At home,1.97,no
+Ellie,Senior,37,Business,BS,House,3.02,yes
+Jeff,Freshman,38,English,BA,Dorm,1.74,no
+Jeremiah,Senior,58,Business,BS,At home,2.52,yes
+Tori,Freshman,34,Math,BS,Apartment,3.83,yes
+Hugh,Junior,27,History Education,BA,Dorm,2.81,yes
+Nick,Sophomore,64,English,BA,Dorm,2.34,yes
+Liz,Junior,51,Spanish,BS,Apartment,3.51,yes
+Ellie,Sophomore,42,Theatre,BA,Apartment,2.99,yes
+Tori,Sophomore,31,History Education,BS,House,3.7,yes
+Mary,Senior,64,Graphic Design,BA,House,2.66,yes
+Joe,Sophomore,22,English,BA,House,3.22,yes
+Kim,Freshman,34,Nursing,BS,At home,2.6,yes
+John,Junior,46,Journalism,BS,Dorm,3.63,yes
+Gloria,Freshman,18,Nursing,BS,Dorm,3.64,yes
+Gloria,Junior,59,Theatre,BS,Dorm,2.87,yes
+Jenna,Junior,55,English,BS,At home,3.43,yes
+Noah,Sophomore,64,Business,BS,House,2.47,yes
+Tori,Freshman,27,English,BA,At home,2.77,yes
+Jeremiah,Junior,64,Journalism,BA,Dorm,1.93,no
+Nick,Junior,31,Spanish,BS,House,3.73,yes
+Jenna,Freshman,63,Graphic Design,BA,House,2.68,yes
+Jenna,Senior,27,English,BS,At home,2.38,yes
+Jacob,Senior,37,Journalism,BA,House,3.01,yes
+Tori,Freshman,49,Business,BS,Apartment,2.11,yes
+Jeff,Sophomore,19,Nursing,BS,Apartment,1.89,no
+Joe,Junior,36,History Education,BA,Dorm,1.66,no
+Joe,Sophomore,21,Nursing,BS,At home,2.53,yes
+Jeff,Freshman,50,Theatre,BS,House,3.73,yes
+Joe,Junior,37,Computer Science,BS,At home,3.5,yes
+Hugh,Freshman,58,Journalism,BA,Apartment,1.58,no
+Kim,Senior,47,English,BS,At home,2.68,yes
+Jared,Freshman,63,Computer Science,BA,House,1.74,no
+Nick,Junior,28,Music Education,BS,Apartment,2.12,yes
+Noah,Senior,49,Math,BS,Apartment,2.16,yes
+Noah,Senior,46,Music Education,BS,At home,2.98,yes
+Jeremiah,Junior,63,Spanish,BA,House,2.73,yes
+Joe,Junior,53,Theatre,BA,Apartment,1.91,no
+Jenna,Freshman,33,Graphic Design,BA,At home,1.67,no
+Clayton,Freshman,36,Journalism,BS,At home,2.38,yes
+Jeff,Freshman,61,Spanish,BS,House,2.63,yes
+Joe,Freshman,28,Theatre,BA,At home,1.62,no
+Noah,Junior,58,Theatre,BA,Apartment,2.64,yes
+Jeff,Senior,65,Music Education,BS,At home,2.36,yes
+Ellie,Sophomore,54,Computer Science,BA,Dorm,1.95,no
+Jared,Senior,56,Journalism,BA,Apartment,2.12,yes
+Gloria,Senior,31,English,BA,At home,1.84,no
+Taylor,Freshman,27,Math,BS,Apartment,1.96,no
+Taylor,Freshman,43,Graphic Design,BA,At home,3.4,yes
+Jared,Senior,49,Nursing,BS,Apartment,2.68,yes
+Tori,Sophomore,44,Nursing,BA,House,1.59,no
+Taylor,Freshman,65,Nursing,BA,At home,2.75,yes
+Nick,Junior,45,English,BA,House,2.76,yes
+Nick,Freshman,19,English,BA,At home,1.57,no
+Taylor,Senior,20,Music Education,BS,House,2.66,yes
+Gloria,Senior,46,Journalism,BS,Dorm,1.59,no
+Jared,Senior,41,Spanish,BA,House,3.29,yes
+Hugh,Sophomore,50,Computer Science,BS,House,2.41,yes
+Ellie,Freshman,40,History Education,BA,At home,1.94,no
+Ellie,Junior,40,Spanish,BS,At home,2.78,yes
+Jenna,Senior,43,English,BA,House,2.42,yes
+John,Freshman,62,Nursing,BS,Apartment,3.82,yes
+Jeremiah,Freshman,37,Nursing,BA,Apartment,2.49,yes
+Mary,Junior,35,History Education,BA,Apartment,1.77,no
+Jared,Senior,32,Spanish,BS,Apartment,2.86,yes
+Gloria,Freshman,33,Theatre,BS,House,1.97,no
+Taylor,Sophomore,26,Business,BS,Dorm,3.74,yes
+Hugh,Junior,42,Nursing,BS,At home,3.81,yes
+Gloria,Junior,26,Music Education,BS,At home,1.73,no
+Hugh,Senior,19,Graphic Design,BS,At home,3.55,yes
+Jacob,Freshman,40,Theatre,BA,Dorm,3.71,yes
+Tori,Junior,20,Music Education,BS,At home,2.35,yes
+Jeremiah,Senior,48,Spanish,BS,Apartment,3.38,yes
+Clayton,Sophomore,49,Math,BS,House,2.64,yes
+Nick,Junior,26,Spanish,BA,House,3.07,yes
+Jenna,Sophomore,47,Spanish,BA,Dorm,2.37,yes
+Joe,Freshman,43,Theatre,BA,Dorm,3.23,yes
+Mary,Senior,18,Spanish,BA,At home,3.2,yes
+Gloria,Junior,20,Spanish,BA,Apartment,3.74,yes
+Noah,Freshman,27,Music Education,BS,Apartment,2.63,yes
+Emily,Sophomore,30,Journalism,BS,At home,3.69,yes
+Noah,Senior,35,Nursing,BS,House,1.67,no
+Emily,Sophomore,54,Music Education,BS,House,3.79,yes
+Hugh,Sophomore,31,English,BA,House,2.1,yes
+Taylor,Sophomore,47,Nursing,BA,Dorm,3.49,yes
+Liz,Senior,49,Spanish,BS,At home,3.36,yes
+Daniel,Sophomore,62,Business,BS,House,2.87,yes
+Liz,Senior,62,Nursing,BS,At home,2.4,yes
+John,Junior,31,Journalism,BA,Apartment,3.23,yes
+Emily,Sophomore,20,Computer Science,BA,At home,2.2,yes
+Jeremiah,Senior,40,Math,BS,At home,3.07,yes
+Jacob,Junior,20,Nursing,BS,House,3.18,yes
+Taylor,Sophomore,19,Theatre,BS,Apartment,3.28,yes
+Taylor,Senior,25,Computer Science,BS,Apartment,2.23,yes
+Gloria,Sophomore,40,Business,BA,At home,3.45,yes
+Jared,Freshman,57,English,BA,Apartment,1.87,no
+Gloria,Junior,40,Theatre,BS,House,1.79,no
+Jared,Freshman,29,History Education,BS,Dorm,1.62,no
+Ellie,Sophomore,21,Business,BA,Apartment,2.05,yes
+Hugh,Junior,39,English,BA,Apartment,2.99,yes
+Jeremiah,Junior,40,Music Education,BS,Apartment,3.82,yes
+Jeff,Freshman,38,Computer Science,BA,Apartment,2.93,yes
+John,Junior,44,Music Education,BA,House,1.8,no
+Taylor,Junior,31,Math,BA,Dorm,1.6,no
+Hugh,Senior,25,Graphic Design,BS,Dorm,1.95,no
+Daniel,Sophomore,48,Music Education,BS,Apartment,3.78,yes
+Jeff,Junior,28,Nursing,BA,Dorm,1.57,no
+Emily,Freshman,60,Math,BS,Dorm,2.16,yes
+Jacob,Freshman,24,Business,BA,House,3.81,yes
+Clayton,Senior,19,English,BA,House,3.47,yes
+Gloria,Senior,41,Journalism,BA,Apartment,3.05,yes
+Tori,Freshman,57,Nursing,BS,Dorm,3.51,yes
+Ellie,Junior,63,Graphic Design,BA,House,3.31,yes
+Mary,Junior,19,Nursing,BS,Apartment,1.89,no
+Jenna,Senior,49,Math,BS,At home,3.5,yes
+Ellie,Junior,38,Theatre,BA,At home,3.75,yes
+Mary,Junior,65,English,BS,Apartment,2,yes
+Nick,Senior,34,Math,BS,House,2.2,yes
+Jeff,Junior,34,History Education,BS,Apartment,2.93,yes
+Hugh,Junior,60,History Education,BA,At home,3.73,yes
+Kim,Freshman,59,Journalism,BS,House,2.02,yes
+Jenna,Junior,48,Theatre,BS,Apartment,3.84,yes
+Ellie,Freshman,48,Spanish,BA,At home,3.74,yes
+Gloria,Sophomore,65,History Education,BA,Dorm,3.05,yes
+Jacob,Freshman,65,English,BA,Apartment,1.69,no
+Tori,Sophomore,55,Math,BS,Apartment,2.73,yes
+Joe,Junior,49,Journalism,BA,Apartment,1.89,no
+Jared,Senior,21,Music Education,BA,Apartment,2.34,yes
+Ellie,Senior,30,Computer Science,BS,Dorm,1.79,no
+Ellie,Junior,21,Spanish,BA,Apartment,3.86,yes
+Nick,Sophomore,53,Spanish,BS,At home,3.02,yes
+Daniel,Freshman,22,Computer Science,BA,Dorm,3.11,yes
+Clayton,Junior,20,Journalism,BS,Apartment,2.8,yes
+Ellie,Sophomore,47,Music Education,BA,Apartment,1.84,no
+Clayton,Sophomore,52,Spanish,BS,House,3.77,yes
+Liz,Freshman,58,Nursing,BA,At home,2.7,yes
+Clayton,Sophomore,25,History Education,BS,House,2.73,yes
+Jeremiah,Sophomore,52,English,BS,At home,2.88,yes
+Ellie,Freshman,44,Computer Science,BS,At home,3.73,yes
+Jared,Freshman,58,Graphic Design,BS,Dorm,3.09,yes
+Taylor,Freshman,55,Business,BA,House,3.23,yes
+Jeff,Freshman,48,Graphic Design,BS,At home,3.56,yes
+Jeff,Senior,62,Spanish,BS,Dorm,1.68,no
+Emily,Junior,39,Graphic Design,BA,Dorm,1.83,no
+Tori,Sophomore,65,Music Education,BS,Dorm,2.67,yes
+Liz,Freshman,57,Nursing,BA,At home,2.38,yes
+Jenna,Sophomore,45,Journalism,BA,At home,3.61,yes
+Liz,Sophomore,62,Theatre,BS,Dorm,2.09,yes
+Clayton,Sophomore,18,Math,BS,Dorm,2.66,yes
+Emily,Junior,45,Journalism,BS,Apartment,1.95,no
+John,Senior,38,Computer Science,BA,Dorm,2.86,yes
+Kim,Junior,57,History Education,BS,At home,3.23,yes
+Noah,Junior,33,Journalism,BS,Apartment,2.82,yes
+Liz,Sophomore,26,English,BA,House,2.06,yes
+Jenna,Freshman,56,Journalism,BA,House,2.63,yes
+Jeremiah,Senior,46,History Education,BS,House,2.91,yes
+Emily,Junior,33,Theatre,BS,At home,3.61,yes
+Jacob,Freshman,44,English,BA,House,3.68,yes
+Hugh,Senior,20,Journalism,BS,House,3.24,yes
+Liz,Junior,60,Spanish,BS,House,3,yes
+John,Sophomore,44,Music Education,BS,Dorm,3.66,yes
+Jacob,Sophomore,41,History Education,BA,At home,3.65,yes
+Hugh,Sophomore,24,English,BA,House,2,yes
+Noah,Senior,25,Graphic Design,BS,Apartment,3.2,yes
+Clayton,Freshman,20,Journalism,BA,Dorm,2.28,yes
+Emily,Senior,27,Nursing,BS,House,1.76,no
+Nick,Sophomore,38,Journalism,BS,At home,3.26,yes
+Ellie,Senior,40,Computer Science,BS,Apartment,3.36,yes
+Hugh,Freshman,52,Nursing,BS,House,2.97,yes
+Jared,Junior,52,Theatre,BS,At home,3.16,yes
+Gloria,Sophomore,37,Math,BA,Dorm,3.18,yes
+Daniel,Senior,37,Math,BA,Dorm,3.22,yes
+Emily,Sophomore,58,English,BS,Apartment,3.25,yes
+Daniel,Junior,56,Math,BS,At home,3.04,yes
+Jenna,Junior,52,History Education,BA,Apartment,3.88,yes
+Clayton,Junior,64,Graphic Design,BS,Apartment,2.18,yes
+Taylor,Sophomore,47,English,BA,Dorm,2.32,yes
+Mary,Freshman,54,Spanish,BS,Dorm,1.91,no
+Jeremiah,Junior,65,Theatre,BS,Apartment,3.1,yes
+Liz,Freshman,26,Computer Science,BA,At home,2.42,yes
+Liz,Freshman,54,Theatre,BA,Dorm,2.6,yes
+Daniel,Junior,53,History Education,BS,House,1.55,no
+Jacob,Freshman,38,Spanish,BA,At home,2.48,yes
+Gloria,Senior,65,Math,BS,House,1.9,no
+Daniel,Senior,52,Spanish,BA,At home,3.78,yes
+Nick,Junior,31,English,BS,House,3.87,yes
+Taylor,Freshman,47,History Education,BS,At home,2.55,yes
+Jared,Senior,47,Business,BS,Dorm,3.34,yes
+Jared,Senior,28,Journalism,BA,Dorm,3.21,yes
+Liz,Freshman,58,Computer Science,BS,House,1.91,no
+Jacob,Senior,54,Journalism,BS,Dorm,2.09,yes
+Gloria,Sophomore,36,Journalism,BS,House,3.61,yes
+Clayton,Junior,24,Nursing,BS,Apartment,2.41,yes
+Ellie,Senior,32,Spanish,BS,At home,2.21,yes
+John,Junior,61,Spanish,BA,House,3.39,yes
+Clayton,Junior,32,Business,BA,House,3.58,yes
+Taylor,Junior,30,Graphic Design,BS,Apartment,2,yes
+Hugh,Freshman,34,Journalism,BS,House,1.96,no
+Liz,Senior,23,Business,BS,Apartment,2.67,yes
+Emily,Sophomore,59,English,BA,Dorm,3.31,yes
+Jenna,Senior,28,Computer Science,BA,Apartment,1.84,no
+Nick,Senior,61,Math,BS,Apartment,2.15,yes
+Mary,Freshman,23,Business,BS,At home,3.3,yes
+Mary,Junior,62,Math,BA,Dorm,2.38,yes
+Hugh,Freshman,39,Journalism,BA,At home,3.66,yes
+Nick,Freshman,63,English,BS,At home,2.48,yes
+Gloria,Sophomore,48,Journalism,BS,Apartment,3.47,yes
+Liz,Senior,48,Theatre,BA,At home,3.17,yes
+Mary,Sophomore,51,Theatre,BS,At home,2.23,yes
+Noah,Sophomore,60,Nursing,BS,House,3.55,yes
+Jeff,Freshman,29,Math,BA,Apartment,1.91,no
+Daniel,Freshman,36,History Education,BA,Apartment,2.73,yes
+Joe,Freshman,24,Math,BA,Apartment,2.33,yes
+Kim,Freshman,24,English,BS,At home,3.17,yes
+Nick,Sophomore,60,Business,BA,Dorm,3.87,yes
+Joe,Senior,52,Computer Science,BS,Apartment,2.21,yes
+Daniel,Freshman,61,Computer Science,BS,Apartment,3.76,yes
+Tori,Freshman,63,Graphic Design,BA,At home,1.79,no
+Jared,Junior,62,Journalism,BA,Apartment,1.77,no
+Joe,Junior,28,Theatre,BS,House,2.8,yes
+Mary,Freshman,46,Nursing,BS,At home,3.03,yes
+Ellie,Freshman,24,Theatre,BA,House,2.49,yes
+Jeff,Senior,35,Business,BS,At home,2.39,yes
+Tori,Junior,40,Spanish,BS,House,2.69,yes
+Tori,Junior,41,Graphic Design,BA,Apartment,2.28,yes
+Mary,Freshman,55,Spanish,BA,Dorm,1.67,no
+Jenna,Freshman,41,Math,BA,House,1.84,no
+Ellie,Freshman,23,Business,BS,House,3.34,yes
+Hugh,Senior,38,Graphic Design,BA,At home,2.65,yes
+Daniel,Senior,30,Computer Science,BS,Apartment,2.93,yes
+Daniel,Senior,64,Nursing,BA,House,3.66,yes
+Jenna,Senior,51,Math,BA,Apartment,3.04,yes
+Nick,Sophomore,19,English,BA,Dorm,2.61,yes
+Hugh,Sophomore,34,Graphic Design,BS,At home,3.64,yes
+Jeff,Sophomore,45,Math,BS,House,2.02,yes
+Tori,Senior,47,History Education,BA,At home,2.15,yes
+Jacob,Freshman,24,Business,BS,Dorm,3.78,yes
+Jeremiah,Sophomore,60,Nursing,BS,Dorm,1.81,no
+Jacob,Sophomore,24,Journalism,BA,At home,2.52,yes
+Tori,Junior,45,Music Education,BS,At home,3.85,yes
+Jeremiah,Freshman,27,Math,BS,Dorm,3.81,yes
+Jared,Junior,55,Computer Science,BA,Apartment,2.21,yes
+Hugh,Senior,28,Theatre,BS,Dorm,3.55,yes
+Jacob,Senior,21,Music Education,BS,Dorm,1.68,no
+Noah,Senior,57,Business,BA,Dorm,3.85,yes
+Hugh,Senior,42,Music Education,BA,At home,3.54,yes
+Tori,Senior,63,Graphic Design,BS,House,1.74,no
+Nick,Sophomore,23,Business,BS,Apartment,3.51,yes
+Emily,Junior,36,Graphic Design,BS,House,2.48,yes
+Daniel,Senior,53,Nursing,BA,Dorm,2.78,yes
+Nick,Freshman,50,English,BS,Apartment,1.79,no
+Kim,Senior,40,Graphic Design,BS,At home,2.09,yes
+Emily,Sophomore,32,Journalism,BS,At home,3.2,yes
+Nick,Freshman,22,Nursing,BS,At home,1.96,no
+Jenna,Junior,27,Nursing,BA,House,3.6,yes
+Gloria,Sophomore,40,Business,BS,House,3.05,yes
+Ellie,Junior,44,Nursing,BA,At home,3.73,yes
+Hugh,Freshman,50,Computer Science,BS,House,3.87,yes
+Jenna,Sophomore,38,Theatre,BA,House,2.99,yes
+Clayton,Senior,24,English,BS,At home,1.57,no
+John,Senior,24,Math,BS,House,2.01,yes
+Nick,Junior,61,Spanish,BA,At home,2.16,yes
+Ellie,Junior,18,Math,BA,Apartment,3.44,yes
+Hugh,Junior,30,Business,BA,At home,2.24,yes
+Noah,Sophomore,18,Journalism,BS,Dorm,3.84,yes
+Nick,Senior,19,Theatre,BS,House,2.11,yes
+Taylor,Senior,33,History Education,BS,Apartment,1.6,no
+Daniel,Freshman,55,English,BA,House,2.75,yes
+Mary,Junior,28,Business,BA,At home,3.86,yes
+Joe,Senior,58,Spanish,BA,Apartment,3.45,yes
+Kim,Sophomore,33,Theatre,BA,House,2.11,yes
+Jared,Sophomore,21,History Education,BS,Apartment,2.55,yes
+Daniel,Freshman,36,English,BA,At home,2.51,yes
+Emily,Senior,63,Computer Science,BA,House,3.31,yes
+Ellie,Freshman,62,Nursing,BS,Apartment,3.31,yes
+Jared,Senior,50,Business,BA,Dorm,2.64,yes
+Jenna,Junior,35,Theatre,BA,Dorm,3.56,yes
+Jeremiah,Sophomore,53,Journalism,BA,Dorm,1.8,no
+Jeff,Senior,37,History Education,BA,Apartment,3.59,yes
+Taylor,Freshman,47,English,BS,At home,2.62,yes
+Jared,Junior,36,Journalism,BA,At home,2.16,yes
+Tori,Freshman,38,History Education,BS,Dorm,1.74,no
+Joe,Freshman,57,Computer Science,BA,At home,3.62,yes
+John,Junior,40,Journalism,BA,Apartment,3.12,yes
+Kim,Junior,43,Theatre,BA,House,3.04,yes
+Noah,Junior,35,English,BA,House,1.68,no
+Nick,Junior,63,History Education,BS,House,2.45,yes
+Joe,Senior,32,Spanish,BS,At home,3.22,yes
+Noah,Sophomore,20,English,BA,House,3.48,yes
+Jenna,Junior,61,Business,BA,At home,2.04,yes
+Jacob,Senior,59,Graphic Design,BS,Apartment,2.72,yes
+Noah,Freshman,24,Spanish,BA,House,2.29,yes
+Nick,Junior,20,Music Education,BA,Dorm,2.29,yes
+Jacob,Junior,18,Math,BS,At home,2.62,yes
+Jared,Sophomore,59,Math,BS,At home,2.24,yes
+Clayton,Senior,41,Spanish,BS,At home,3.74,yes
+Mary,Sophomore,28,Business,BA,At home,3.24,yes
+Jenna,Junior,27,Computer Science,BA,Apartment,2.34,yes
+Kim,Senior,26,English,BS,House,3.68,yes
+Jeff,Freshman,40,Theatre,BA,House,3.01,yes
+Liz,Junior,48,Theatre,BS,Apartment,2.68,yes
+Emily,Sophomore,56,Theatre,BA,At home,3.66,yes
+John,Freshman,63,History Education,BA,House,3.31,yes
+Liz,Senior,35,Spanish,BS,Apartment,1.84,no
+Emily,Sophomore,35,Journalism,BA,Dorm,2.65,yes
+Joe,Sophomore,52,Music Education,BA,House,2.2,yes
+Hugh,Freshman,18,Theatre,BA,House,3.48,yes
+Tori,Junior,26,Math,BA,House,1.98,no
+Daniel,Sophomore,50,Music Education,BS,At home,1.82,no
+Taylor,Senior,32,History Education,BA,Apartment,2.76,yes
+John,Junior,44,Music Education,BA,At home,1.79,no
+Liz,Junior,26,Math,BS,At home,3.88,yes
+Emily,Sophomore,46,Spanish,BA,Apartment,1.78,no
+Daniel,Senior,36,Music Education,BS,At home,2.48,yes
+Noah,Junior,50,Music Education,BS,Apartment,3.55,yes
+Jeff,Sophomore,44,Graphic Design,BA,Apartment,3.83,yes
+Kim,Freshman,46,Music Education,BS,Apartment,2.12,yes
+Kim,Sophomore,42,Spanish,BS,At home,2.29,yes
+Tori,Junior,42,Spanish,BS,At home,3.44,yes
+Nick,Freshman,55,Business,BA,Apartment,1.7,no
+Kim,Senior,51,Graphic Design,BS,At home,2.92,yes
+Jared,Freshman,21,Spanish,BA,Apartment,1.87,no
+Jacob,Junior,56,History Education,BS,At home,2.89,yes
+Gloria,Senior,26,Math,BA,At home,3.81,yes
+Noah,Freshman,59,Theatre,BA,House,3.67,yes
+Gloria,Senior,63,Music Education,BS,At home,2.84,yes
+Noah,Senior,59,Journalism,BS,Dorm,2.24,yes
+Noah,Sophomore,19,Theatre,BA,At home,3.63,yes
+Mary,Junior,49,Math,BA,House,1.92,no
+Ellie,Freshman,50,Math,BA,At home,2.44,yes
+John,Sophomore,38,Theatre,BS,At home,3.16,yes
+Hugh,Junior,33,Computer Science,BS,At home,3.37,yes
+Clayton,Freshman,36,English,BS,At home,3.82,yes
+Ellie,Junior,36,Computer Science,BS,House,1.81,no
+Noah,Senior,49,English,BA,At home,3.37,yes
+Hugh,Senior,34,Journalism,BA,At home,2.84,yes
+Hugh,Sophomore,24,Graphic Design,BS,House,1.86,no
+Noah,Junior,49,Journalism,BA,Apartment,3.55,yes
+Gloria,Sophomore,19,Computer Science,BA,Apartment,1.81,no
+Clayton,Freshman,53,Music Education,BS,At home,1.91,no
+Jeff,Senior,42,Graphic Design,BS,Dorm,2.29,yes
+Jenna,Senior,34,Music Education,BA,House,3.83,yes
+Tori,Junior,57,Spanish,BA,Apartment,2.08,yes
+Mary,Senior,39,Math,BS,Dorm,3.42,yes
+Daniel,Sophomore,49,Computer Science,BS,House,2.34,yes
+Mary,Sophomore,52,Graphic Design,BS,Apartment,1.67,no
+Jeremiah,Senior,18,Computer Science,BS,Apartment,1.74,no
+Hugh,Junior,25,History Education,BS,Apartment,2.86,yes
+Noah,Freshman,49,English,BA,Apartment,2.55,yes
+Hugh,Junior,37,Spanish,BA,Apartment,1.77,no
+Joe,Senior,46,Math,BS,Dorm,2.95,yes
+Clayton,Junior,19,Computer Science,BS,House,3.8,yes
+John,Freshman,51,Music Education,BA,House,3.64,yes
+Daniel,Senior,58,Computer Science,BA,House,3.36,yes
+Jeremiah,Sophomore,41,Theatre,BS,House,3.15,yes
+Jared,Junior,50,English,BS,At home,1.86,no
+Kim,Senior,45,Music Education,BS,Apartment,2.57,yes
+Taylor,Junior,57,Music Education,BA,Apartment,2.97,yes
+Clayton,Senior,59,Nursing,BA,House,3.38,yes
+Jenna,Sophomore,56,Nursing,BA,Dorm,3.7,yes
+Joe,Freshman,25,Math,BS,At home,3.22,yes
+Jenna,Senior,44,Theatre,BA,Apartment,2.59,yes
+Liz,Sophomore,40,Graphic Design,BS,At home,1.97,no
+Hugh,Sophomore,29,History Education,BS,Apartment,2.29,yes
+Emily,Junior,39,Computer Science,BA,At home,2.99,yes
+Noah,Freshman,33,Computer Science,BA,House,3.03,yes
+Hugh,Sophomore,29,Music Education,BA,At home,2.83,yes
+Jacob,Sophomore,58,Nursing,BA,Apartment,3.53,yes
+Ellie,Sophomore,19,Business,BS,At home,1.81,no
+Jeremiah,Freshman,47,Math,BS,At home,2.19,yes
+John,Junior,51,Business,BS,House,3.38,yes
+Daniel,Senior,37,Graphic Design,BA,Dorm,2.03,yes
+Clayton,Sophomore,55,Theatre,BS,At home,3.37,yes
+Jeff,Freshman,54,Business,BS,Apartment,1.97,no
+Gloria,Freshman,56,Nursing,BA,Dorm,1.59,no
+Jared,Freshman,43,Computer Science,BA,Apartment,2.88,yes
+Ellie,Junior,59,Theatre,BA,Apartment,1.9,no
+Liz,Senior,46,Math,BS,House,3.07,yes
+Daniel,Sophomore,42,Computer Science,BA,House,2.68,yes
+Emily,Sophomore,54,Graphic Design,BA,Apartment,2.17,yes
+Clayton,Freshman,33,History Education,BS,At home,1.62,no
+Gloria,Freshman,34,Theatre,BS,Apartment,2.3,yes
+Nick,Junior,36,Math,BA,House,2.6,yes
+Liz,Freshman,61,Business,BA,House,2.14,yes
+Clayton,Sophomore,51,Music Education,BS,At home,2.78,yes
+Gloria,Senior,60,Journalism,BS,At home,3.1,yes
+Clayton,Freshman,37,History Education,BA,Apartment,3.67,yes
+Mary,Freshman,53,Theatre,BA,House,2.73,yes
+Jenna,Senior,53,Journalism,BS,Apartment,2.59,yes
+Ellie,Freshman,52,Graphic Design,BS,Dorm,3.42,yes
+Jared,Sophomore,61,English,BS,At home,1.92,no
+Daniel,Junior,20,Business,BS,At home,2.31,yes
+Noah,Sophomore,29,Spanish,BS,Apartment,3.48,yes
+Jenna,Sophomore,42,Spanish,BA,Apartment,3.34,yes
+Jeff,Junior,24,Graphic Design,BA,At home,3.49,yes
+Hugh,Junior,40,Math,BS,Apartment,2.17,yes
+Jared,Junior,30,Music Education,BA,Apartment,2.03,yes
+Jacob,Freshman,26,Theatre,BA,House,3.08,yes
+Jenna,Senior,56,English,BA,Dorm,3.18,yes
+Jeff,Sophomore,54,Spanish,BA,Dorm,1.76,no
+Emily,Freshman,38,Business,BS,House,3.05,yes
+Liz,Sophomore,25,Graphic Design,BA,Dorm,2.7,yes
+Taylor,Junior,35,History Education,BS,House,1.79,no
+Emily,Senior,34,Theatre,BS,Apartment,2.4,yes
+Jared,Sophomore,20,History Education,BA,Apartment,2.56,yes
+Nick,Junior,24,English,BS,Dorm,1.93,no
+John,Freshman,38,Nursing,BA,House,2.47,yes
+Kim,Freshman,39,Journalism,BA,Dorm,3.61,yes
+Mary,Junior,25,English,BS,Apartment,3.76,yes
+Gloria,Junior,50,English,BS,Dorm,3.77,yes
+Daniel,Freshman,30,Spanish,BA,Apartment,2.51,yes
+Tori,Junior,29,Graphic Design,BA,Dorm,2.35,yes

@@ -1,0 +1,11 @@
+
+Cluster 1 SSE
+Centroid : [74.860466, 17.860466] == 1100
+Cluster 2 SSE
+Centroid : [29.48276, 41.62069] == 1053
+Cluster 3 SSE
+Centroid : [80.28571, 64.7619] == 719
+Cluster 4 SSE
+Centroid : [16.25, 8.625] == 279
+Cluster 5 SSE
+Centroid : [34.530613, 81.12245] == 1284
